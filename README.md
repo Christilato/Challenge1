@@ -2,15 +2,16 @@
 Homework Challenge 1
 
 ## Description
-sentences
+Homework Challenge 1 consists of refactoring exisiting code to meet a certain set of standards. This particular challenge is structured as if a marketing agency has hired me to refactor an exisiting site to make it more accessible. 
 
-##Link
+## Link
 [Live-link]link delpoyed from github
 
 ## Screenshot 
-![Webpage screenshot]
+![Webpage screenshot](./assets/images/Screenshot.png)
 
 ## Original HTML
+
 <!DOCTYPE html>
 <html lang="en-us">
 
