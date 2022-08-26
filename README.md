@@ -5,7 +5,7 @@ Homework Challenge 1
 Homework Challenge 1 consists of refactoring exisiting code to meet a certain set of standards. This particular challenge is structured as if a marketing agency has hired me to refactor an exisiting site to make it more accessible. 
 
 ## Link
-[Live-link]link delpoyed from github
+[Live-link](https://christilato.github.io/Challenge1/)
 
 ## Screenshot 
 ![Webpage screenshot](./assets/images/Screenshot.png)
