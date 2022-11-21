@@ -1,5 +1,5 @@
 # Challenge1
-Homework Challenge 1
+Code-Refactor 
 
 ## Description
 In this project, I was provided an existing set of HTML and CSS code for a digital marketing company. The original code, while functional, did not include the proper accessibility features based on W3C Accessibility Standards.
